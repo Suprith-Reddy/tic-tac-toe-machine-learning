@@ -1,6 +1,7 @@
 Commands to execute:
 --------------------
 To view results of Classifiers and Regressors: "python3 classifier_regressor.py"
+
 To play the Tic Tac Toe game: "python3 tictactoe.py"
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 classifier_regressor.py -> Main Program that runs all the classifier and regressors. Outputs the Accuracy and Confusion matrix.
